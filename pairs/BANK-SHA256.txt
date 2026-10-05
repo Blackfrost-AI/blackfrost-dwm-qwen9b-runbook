@@ -1,0 +1,6 @@
+dwm-32pair-bank.jsonl
+SHA-256: 3ff10646a571a86b660bb4048d47d7984c56b779b5cf8a74c0d85045ea02f080
+
+This is the frozen Blackfrost 32-pair contrast bank. The pipeline verifies
+this digest at startup and before every capture round. It is a measurement
+instrument, not a prompt dataset. Never edit, extend, trim, or replace it.
